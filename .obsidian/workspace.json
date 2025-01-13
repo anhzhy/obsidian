@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "02b270cd6a49c276",
+        "id": "24fcd714d8bed1bf",
         "type": "tabs",
         "children": [
           {
-            "id": "2ac1640461129112",
+            "id": "4e522c5d924eae13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Present Perfect.md",
-                "mode": "source",
+                "file": "English/Parts of speech/Trạng từ (Adverb).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Present Perfect"
-            },
-            "group": "18f8a811a67ccba7"
-          }
-        ]
-      },
-      {
-        "id": "6413f7204e6515c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2cb9a7dd1437cc2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grammar/Present Perfect.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Present Perfect"
-            },
-            "group": "18f8a811a67ccba7"
+              "title": "Trạng từ (Adverb)"
+            }
           }
         ]
       }
@@ -176,9 +154,39 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "c81bd4035d8aa288",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "66afd540d0432a6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e730dfe3b6dc0e3f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,11 +201,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cb9a7dd1437cc2e",
+  "active": "d3a3323f971423c5",
   "lastOpenFiles": [
+    "English/Roadmap.md",
+    "English/Parts of speech/Trạng từ (Adverb).md",
+    "English/Parts of speech/Đại từ (Pronoun).md",
+    "English/Parts of speech/Tính từ (Adjective).md",
+    "English/Parts of speech/Danh từ (Noun).md",
+    "TOEIC/Listening/Untitled.md",
+    "English/Grammar/Hiện tại đơn (Simple Present).md",
+    "English/Grammar/Tương lai đơn (Simple Future).md",
+    "English/Grammar/Hiện tại hoàn thành tiếp diễn (Present Perfect Continuous).md",
+    "English/Grammar/Hiện tại hoàn thành (Present Perfect).md",
+    "English/Grammar/Hiện tại tiếp diễn (Present Continuous).md",
+    "English/Grammar/Quá khứ đơn (Past Simple).md",
+    "English/Grammar/Quá khứ hoàn thành tiếp diễn (Past Perfect Continuous).md",
+    "English/Grammar/Quá khứ hoàn thành (Past Perfect).md",
+    "English/Grammar/Quá khứ tiếp diễn (Past Continuous).md",
+    "English/Grammar/Tương lai gần (Near Future).md",
+    "English/Grammar/Tương lai hoàn thành tiếp diễn (Future Perfect Continuous).md",
+    "English/Grammar/Tương lai hoàn thành (Future Perfect).md",
+    "English/Grammar/Tương lai tiếp diễn (Future Continuous).md",
+    "English/Parts of speech",
+    "2025-01-29.md",
+    "assets/Pasted image 20250108235053.png",
+    "assets",
+    "assets/Pasted image 20250108233219.png",
+    "adf",
+    "Japanese",
     "Grammar/Present Continuous.md",
     "2025-01-07.md",
     "Grammar/Present Perfect.md",
@@ -207,7 +242,6 @@
     "Reading",
     "Listening",
     "Vocabulary",
-    "Welcome.md",
     "Grammar",
     "Untitled.canvas"
   ]

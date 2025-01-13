@@ -7,11 +7,11 @@ tags:
 > E.g: I plays football everyday
 
 > [!summary]+ Phủ Định
-> 	S+ is/am/are + not + V(ing) + O
+> 	S + is/am/are + not + V(ing) + O
 > E.g: I’m not cooking now
 
 > [!summary]+ Câu Hỏi
-> 	Is/am/are + S+ V(ing) + O
+> 	Is/Am/Are + S+ V(ing) + O
 > E.g: Is she watching T.V at the moment?
 
 ### Cách sử dụng
