@@ -9,7 +9,7 @@ Tính từ giúp trả lời cho các câu hỏi:
 - “Which?”: Cái nào?
 - “What kind?”: Loại gì?
 - “How many?”: Bao nhiêu?
-### 2) Phân loại tính từ
+### 2) Phân loại
 > [!note]+ Tính từ riêng
 > Là tên riêng để gọi của của sự vật, hiện tượng
 >> [!example]
